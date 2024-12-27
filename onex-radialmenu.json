@@ -1,6 +1,6 @@
 {
 "name" : "onex-radialmenu",
-"version" : "0.0.3",
-"msg" : "",
+"version" : "0.0.4",
+"msg" : "Changed Files are :  onex-radialmenu/ -> client/client.lua ,  qbx_radialmenu/bridge/client/clinet.lua , qbx_radialmenu/bridge/server/trunk.lua",
 "ad" : null
 }
