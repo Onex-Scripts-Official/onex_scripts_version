@@ -1,6 +1,6 @@
 {
 "name" : "onex-interaction",
-"version" : "1.0.0",
-"msg" : null,
+"version" : "1.0.1",
+"msg" : "Fixed the issue where the default ONEX SYSTEM headers were always displayed, and did not update based on the exported title",
 "ad" : null
 }
