@@ -1,6 +1,6 @@
 {
 "name" : "onex-scoreboard",
-"version" : "0.0.2",
-"msg" : "Refactor activity job requirements to support multiple jobs",
+"version" : "0.0.4",
+"msg" : "Fixed the minimap disappearing issue and several other improvements. For a full patch note and detailed changelog, visit our Discord.",
 "ad" : null
 }
