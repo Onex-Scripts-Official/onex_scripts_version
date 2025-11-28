@@ -1,6 +1,6 @@
 {
 "name" : "onex-scoreboard",
-"version" : "0.0.4",
-"msg" : "Fixed the minimap disappearing issue and several other improvements. For a full patch note and detailed changelog, visit our Discord.",
+"version" : "1.1.3",
+"msg" : "Download onex-base and onex-scoreboard (required). All known issues like job registration failures and deregistration errors have been fixed.",
 "ad" : null
 }
